@@ -9,4 +9,21 @@ a{
 
 h1{
     color: aquamarine;
+    font-size: 60px;
+}
+
+h2{
+    font-size: 25px;
+}
+
+.intro{
+    font-size: 24px;
+}
+
+#earth-title{
+    color: lightgreen;
+}
+
+#mars-title{
+    color: rgb(255, 139, 139);
 }
