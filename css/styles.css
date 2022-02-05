@@ -4,18 +4,20 @@ body {
 }
 
 header {
-    color: #333;
-    background-color: #fff;
+    color: #fff;
     width: 100px;
     margin: 100px 25px;
     padding: 10px 20px;
+    border-color: yellow;
+    border-style: solid;
+    border-width: 30px;
+    border-radius: 10px;
 }
 
 main{
-    background-color: beige;
-    color: #333;
     width: 300px;
     height: 200px;
-    margin: 100px 25px;
+    margin: 10px 25px;
     padding: 10px 20px;
+    border: violet solid 20px;
 }
