@@ -1,29 +1,21 @@
-body{
-    background-color: #333;
-    color: #f4f4f4;
+body {
+    background: #333;
+    color: white;
 }
 
-a{
-    color: darksalmon;
+header {
+    color: #333;
+    background-color: #fff;
+    width: 100px;
+    margin: 100px 25px;
+    padding: 10px 20px;
 }
 
-h1{
-    color: aquamarine;
-    font-size: 60px;
-}
-
-h2{
-    font-size: 25px;
-}
-
-.intro{
-    font-size: 24px;
-}
-
-#earth-title{
-    color: lightgreen;
-}
-
-#mars-title{
-    color: rgb(255, 139, 139);
+main{
+    background-color: beige;
+    color: #333;
+    width: 300px;
+    height: 200px;
+    margin: 100px 25px;
+    padding: 10px 20px;
 }
