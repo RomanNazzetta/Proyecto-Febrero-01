@@ -1,26 +1,45 @@
-body{
+body {
     margin: 0;
-}
-header{
-    background-color: #333;
-    color: aliceblue;
-    text-align: center;
-    padding: 25px 0px;
-    margin-bottom: 25px;
+    font-size: 21px;
 }
 
-main{
-    background-color: #e4e4e4;
-    width: 600px;
-    padding: 25px;
-    border: solid rgb(107, 101, 101) 5px;
+h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+header {
+    background-color: #588C94;
+    color: white;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.intro {
+    width: 500px;
     margin: 0 auto;
 }
 
-footer{
-    background-color: #333;
-    color: aliceblue;
-    text-align: center;
-    padding: 25px 0px;
-    margin-top: 25px;
+.my-skills {
+    background-color: #1D3C41;
+    color: white;
+    padding: 30px 0;
 }
+
+.columns {
+    width: 750px; 
+    display: flex;
+}
+
+.column {
+    margin: 5px;
+}
+
