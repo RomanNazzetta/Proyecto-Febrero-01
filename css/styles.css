@@ -1,3 +1,6 @@
+body{
+    margin: 0;
+}
 header{
     background-color: #333;
     color: aliceblue;
@@ -10,7 +13,8 @@ main{
     background-color: #e4e4e4;
     width: 600px;
     padding: 25px;
-    border: solid red 5px;
+    border: solid rgb(107, 101, 101) 5px;
+    margin: 0 auto;
 }
 
 footer{
